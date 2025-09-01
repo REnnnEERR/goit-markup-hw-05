@@ -13,20 +13,20 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "close"
+          "close-black"
         ]
       },
       "attrs": [
         {}
       ],
       "properties": {
-        "order": 25,
-        "id": 4,
-        "name": "close",
+        "order": 29,
+        "id": 3,
+        "name": "close-black",
         "prevSize": 32
       },
-      "setIdx": 1,
-      "setId": 4,
+      "setIdx": 0,
+      "setId": 6,
       "iconIdx": 0
     },
     {
@@ -42,20 +42,20 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "email"
+          "mail"
         ]
       },
       "attrs": [
         {}
       ],
       "properties": {
-        "order": 24,
-        "id": 3,
-        "name": "email",
+        "order": 28,
+        "id": 2,
+        "name": "mail",
         "prevSize": 32
       },
-      "setIdx": 1,
-      "setId": 4,
+      "setIdx": 0,
+      "setId": 6,
       "iconIdx": 1
     },
     {
@@ -74,13 +74,13 @@
       },
       "attrs": [],
       "properties": {
-        "order": 21,
+        "order": 27,
         "id": 1,
         "name": "person",
         "prevSize": 32
       },
-      "setIdx": 1,
-      "setId": 4,
+      "setIdx": 0,
+      "setId": 6,
       "iconIdx": 2
     },
     {
@@ -102,13 +102,13 @@
         {}
       ],
       "properties": {
-        "order": 23,
+        "order": 26,
         "id": 0,
         "name": "phone",
         "prevSize": 32
       },
-      "setIdx": 1,
-      "setId": 4,
+      "setIdx": 0,
+      "setId": 6,
       "iconIdx": 3
     }
   ],
