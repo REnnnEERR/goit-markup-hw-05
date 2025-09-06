@@ -633,13 +633,9 @@ img {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.svg-overly:hover {
-    fill: #ffffff
-}
-
-
-.svg-overly:focus {
-    fill: #ffffff
+.overlay-button:hover .svg-overly,
+.overlay-button:focus .svg-overly {
+    fill: #ffffff;
 }
 
 .overlay-text {
