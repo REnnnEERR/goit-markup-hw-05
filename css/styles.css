@@ -659,7 +659,7 @@ img {
 }
 
 .overly-form-container:nth-of-type(4) {
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 }
 
 .overly-form-name {
@@ -787,4 +787,8 @@ img {
 
 .checkbox-input:checked+label .checkbox-icon .checkbox-svg {
     fill: var(--light, #F4F4FD);
+}
+
+.overly-form-container:nth-of-type(5) {
+    margin-bottom: 24px;
 }
