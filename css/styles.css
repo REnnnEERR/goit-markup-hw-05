@@ -713,6 +713,14 @@ img {
     margin-bottom: 16px;
 }
 
+.visually-hidden {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+}
 
 
 .checkbox-icon {
@@ -725,4 +733,19 @@ img {
     align-items: center;
     justify-content: center;
     fill: transparent;
+    margin-right: 8px;
+}
+
+.checkbox-svg {
+    fill: transparent;
+}
+
+.checkbox-input:checked+label .checkbox-icon {
+    background-color: var(--blue, #404bbf);
+    border: none;
+
+}
+
+.checkbox-input:checked+label .checkbox-icon .checkbox-svg {
+    fill: var(--light, #F4F4FD);
 }
