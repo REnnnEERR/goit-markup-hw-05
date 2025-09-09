@@ -621,6 +621,11 @@ img {
 
 .footer-subscribe-icon {
     margin-left: 16px;
+    fill: #ffffff;
+}
+
+.footer-subscribe {
+    margin-left: 80px;
 }
 
 .overlay {
